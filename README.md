@@ -11,4 +11,5 @@ This summary of learning resources is intended to work in conjunction with Cisco
 https://learningnetwork.cisco.com/s/learning-plan-detail-standard?ltui__urlRecordId=a1c3i0000007mhzAAA&ltui__urlRedirect=learning-plan-detail-standard
 
 CCNA Certification Training Videos
+
 ![https://learningnetwork.cisco.com/s/learning-plan-detail-standard?ltui__urlRecordId=a1c3i0000007mhzAAA&ltui__urlRedirect=learning-plan-detail-standard](https://user-images.githubusercontent.com/72484101/197089560-70bc0bdf-2c42-49dc-be2c-87b7328dcb39.png)
