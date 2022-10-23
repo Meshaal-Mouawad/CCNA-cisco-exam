@@ -26,9 +26,13 @@ Downloding CCNA 200-301 Official Cert Guide Library Volume 2
 
 [<img alt="alt_text" width="20%" src="https://user-images.githubusercontent.com/72484101/197371103-0a7846fb-572a-48ff-958b-a43394f38dc2.png"/>](https://github.com/Meshaal-Mouawad/CCNA-cisco-exam/files/9845676/ccna-200-301-vol.-2.pdf)
 
+2. 31 Days Before your CCNA Exam: A Day-By-Day Review Guide for the CCNA 200-301 Certification Exam
+
+[<img alt="alt_text" width="20%" src="(https://user-images.githubusercontent.com/72484101/197371865-263709eb-bf10-49ca-b5cc-a17d07fa5ef8.png"/>](https://github.com/Meshaal-Mouawad/CCNA-cisco-exam/files/9845703/CiscoPress-31-Days-Before-your-CCNA-200-301-Exam.pdf)
+
 3. CCNA Routing and Switching Portable Command Guide 4th edition
 
-[<img alt="alt_text" width="25%" src="https://user-images.githubusercontent.com/72484101/197371591-3904b627-cc57-4dfd-9212-b2b411a537c0.png"/>](https://github.com/Meshaal-Mouawad/CCNA-cisco-exam/files/9845687/CCNA_Routing_and_Switching_Portable_Command_Guide_Technet24.pdf)
+[<img alt="alt_text" width="20%" src="https://user-images.githubusercontent.com/72484101/197371591-3904b627-cc57-4dfd-9212-b2b411a537c0.png"/>](https://github.com/Meshaal-Mouawad/CCNA-cisco-exam/files/9845687/CCNA_Routing_and_Switching_Portable_Command_Guide_Technet24.pdf)
 
 
 References
