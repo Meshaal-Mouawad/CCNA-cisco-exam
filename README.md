@@ -42,6 +42,7 @@ First, visualize the book as eight smaller parts. Then, within each part, visual
 **4 small tasks/part:** Read and master a chapter.
 
 ![image](https://user-images.githubusercontent.com/72484101/197922235-f789336d-0668-4894-aeb2-bf5d4be6f153.png)
+
 **Figure 2** _Eight Parts, with an Average of Four Chapters Each, with Part Reviews_
 
 
